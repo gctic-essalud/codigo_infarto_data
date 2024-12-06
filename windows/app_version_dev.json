@@ -1,0 +1,15 @@
+{  
+  "latest": {
+    "label": "(DEV)",
+    "version": "1.0.0",
+    "optional": false,
+    "use_url": false,
+    "url": "https://drive.google.com/drive"
+  },
+  "stable": {
+    "label": "(DEV)",
+    "version": "1.0.0",
+    "use_url": false,
+    "url": "https://drive.google.com/drive"
+  }
+}
