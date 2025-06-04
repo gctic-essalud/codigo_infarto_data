@@ -1,14 +1,14 @@
 {  
   "latest": {
     "label": "(DEV)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "optional": false,
     "use_url": false,
     "url": "https://drive.google.com/drive"
   },
   "stable": {
     "label": "(DEV)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "use_url": false,
     "url": "https://drive.google.com/drive"
   }
