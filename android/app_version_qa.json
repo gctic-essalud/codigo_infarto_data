@@ -1,14 +1,14 @@
 {  
   "latest": {
     "label": "(QA)",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "optional": false,
     "use_url": false,
     "url": "https://drive.google.com/drive/folders/1kwkOPOrjSha-DHy3BBRPCQKVvaSCoz11?usp=sharing"
   },
   "stable": {
     "label": "(QA)",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "use_url": false,
     "url": "https://drive.google.com/drive/folders/1kwkOPOrjSha-DHy3BBRPCQKVvaSCoz11?usp=sharing"
   }
